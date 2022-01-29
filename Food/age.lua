@@ -13,7 +13,7 @@ food = {
             arch = "amd64",
             url = "https://github.com/FiloSottile/" .. name .. "/releases/download/v" .. version .. "/" .. name .. "-v" .. version .. "-darwin-amd64.tar.gz",
             -- shasum of the release archive
-            sha256 = "",
+            sha256 = "1665271f923adf8b59ff127474041184400d0e530c0ed25dc00535b2c013cff5",
             resources = {
                 {
                     path =  "age/" .. name,
@@ -27,7 +27,7 @@ food = {
             arch = "amd64",
             url = "https://github.com/FiloSottile/" .. name .. "/releases/download/v" .. version .. "/" .. name .. "-v" .. version .. "-linux-amd64.tar.gz",
             -- shasum of the release archive
-            sha256 = "",
+            sha256 = "6414f71ce947fbbea1314f6e9786c5d48436ebc76c3fd6167bf018e432b3b669",
             resources = {
                 {
                     path =  "age/" .. name,
