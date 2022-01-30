@@ -115,8 +115,8 @@ food = {
                     installpath = "bin\\" .. name .. ".exe"
                 },
                 {
-                    path =  "age/" .. name .. "-keygen",
-                    installpath = "bin/" .. name .. "-keygen",
+                    path =  "age/" .. name .. "-keygen.exe",
+                    installpath = "bin/" .. name .. "-keygen.exe",
                     executable = true
                 }
             }
